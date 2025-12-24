@@ -160,7 +160,7 @@ router.get('/', async (req, res) => {
 
                     // Send success message with image
                     const successMessage = `
-🎉 *Welcome to SUBZERO-BOT!* 🚀  
+🎉 *Welcome to SANCHO-XMD!* 🚀  
 
 ✅ *Successfully Configured!*
 ✔️ Session Created & Secured
